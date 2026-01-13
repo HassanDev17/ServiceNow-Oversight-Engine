@@ -1,7 +1,7 @@
 # ServiceNow Oversight Engine
 
 [![Status](https://img.shields.io/badge/status-in%20progress-yellow)](https://github.com/) 
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/)
+
 
 ---
 
